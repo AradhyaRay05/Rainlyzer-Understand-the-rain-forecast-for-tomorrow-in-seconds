@@ -40,7 +40,7 @@ To make the model accessible and interactive, it is integrated into a **Streamli
 ## 📦 Tech Stack
 
 - **Languages**: Python
-- **Libraries**: Scikit-learn, CatBoost, XGBoost, Pandas, NumPy, Seaborn, Matplotlib, imbalanced-learn
+- **Libraries**: `scikit-learn`, `catboost`, `xgboost`, `pandas`, `numpy`, `seaborn`, `matplotlib`, `imbalanced-learn`
 - **Deployment**: Streamlit
 
 ---
