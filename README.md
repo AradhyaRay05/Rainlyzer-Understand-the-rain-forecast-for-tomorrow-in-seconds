@@ -20,7 +20,7 @@ Railway tracks can be affected by various structural and environmental factors, 
 
 ### 2. Model Building
 - Compared multiple machine learning models:
-  - ✅ CatBoost (Best Performance)
+  - CatBoost (Best Performance)
   - Random Forest
   - XGBoost
   - Logistic Regression
@@ -50,6 +50,20 @@ Railway tracks can be affected by various structural and environmental factors, 
 ## 📁 Project Structure
 
 
+## ✅ Features
+
+- Predicts likelihood of rail track fall
+- Robust model performance with SMOTE
+- Simple web interface using Streamlit
+- Exported model for reuse or integration
+
+---
+
+## 🚀 Future Enhancements
+
+- Real-time prediction using live sensor data
+- Integration of LSTM for time-series analysis
+- Notification system for high-risk alerts
 
 
 
