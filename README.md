@@ -50,7 +50,6 @@ To make the model accessible and interactive, it is integrated into a **Streamli
 
 ## ✅ Features
 
-- Predicts likelihood of rail track fall
 - Robust model performance with SMOTE
 - Simple web interface using Streamlit
 - Exported model for reuse or integration
