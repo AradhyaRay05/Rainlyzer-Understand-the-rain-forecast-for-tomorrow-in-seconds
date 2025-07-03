@@ -1,12 +1,10 @@
 # 🚆 Rail Fall Prediction using Machine Learning
 
-This project focuses on predicting potential rail fall incidents using machine learning models trained on structured data. It utilizes the CatBoost classifier for optimal performance and includes a Streamlit-based web app for real-time predictions.
+## 🔍 Project Overview
 
----
+This project presents a machine learning-based approach to predict rail fall incidents by analyzing structured infrastructure and environmental data. Multiple classification algorithms were explored, with the **CatBoost classifier** demonstrating the highest performance in terms of accuracy and reliability.
 
-## 🔍 Problem Statement
-
-Railway tracks can be affected by various structural and environmental factors, leading to fall incidents that endanger lives and disrupt services. This project aims to predict such failures based on key features, helping maintenance teams act proactively.
+To make the model accessible and interactive, it is integrated into a **Streamlit web application**, allowing users to perform real-time predictions based on input features. The solution showcases how AI can be applied effectively to classify and anticipate potential failures in rail-related systems using historical and sensor-derived data.
 
 ---
 
