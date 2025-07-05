@@ -35,7 +35,7 @@ To make the model accessible and interactive, it is integrated into a **Streamli
 - Saved the best-performing model (`best_catboost_model.pkl`)
 - Deployed using Streamlit for user interaction and prediction
 
-
+---
 
 ## 📦 Tech Stack
 
