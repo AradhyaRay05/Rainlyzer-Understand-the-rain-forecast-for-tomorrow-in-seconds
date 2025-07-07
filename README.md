@@ -1,4 +1,4 @@
-# 🚆 Rainlyzer – Understand tomorrow’s rain in seconds
+# 🚆 Rainlyzer – Understand the rain forecast for tomorrow in seconds.
 
 ## 🔍 Project Overview
 
