@@ -1,4 +1,4 @@
-# 🚆 Rail Fall Prediction using Machine Learning
+# 🚆 Rainlyzer – Understand tomorrow’s rain in seconds
 
 ## 🔍 Project Overview
 
