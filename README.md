@@ -62,7 +62,6 @@ To make the model accessible and interactive, it is integrated into a **Streamli
 - Integration of LSTM for time-series analysis
 - Notification system for high-risk alerts
 
-
 ## 📬 Contact
 
 <p>
