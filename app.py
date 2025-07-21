@@ -6,7 +6,7 @@ import numpy as np
 
 
 # Load the saved model and scaler
-model = joblib.load(r"D:\Education\Coding\Machine Learning\Machine Learning Projects\Rain Fall Prediction\best_catboost_model.pkl")
+model = joblib.load("best_catboost_model.pkl")
 
 # Assuming the scaler was fitted on X during training, we need to re-fit it here for demonstration purposes
 # In a real deployment, you would save and load the fitted scaler as well.
