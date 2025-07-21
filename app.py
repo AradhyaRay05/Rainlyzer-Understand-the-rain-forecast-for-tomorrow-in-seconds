@@ -8,11 +8,7 @@ import numpy as np
 # Load the saved model and scaler
 model = joblib.load("best_catboost_model.pkl")
 
-# Assuming the scaler was fitted on X during training, we need to re-fit it here for demonstration purposes
-# In a real deployment, you would save and load the fitted scaler as well.
-# For this example, we will recreate a dummy X with the correct column order and fit the scaler.
-# This part is a placeholder and should be replaced with loading a saved scaler in a real scenario.
-# Create a dummy DataFrame with the expected columns and data types
+
 dummy_data = {
     'Location': [0], 'MinTemp': [0.0], 'MaxTemp': [0.0], 'Rainfall': [0.0], 'Evaporation': [0.0], 'Sunshine': [0.0],
     'WindGustDir': [0], 'WindGustSpeed': [0.0], 'WindDir9am': [0], 'WindDir3pm': [0], 'WindSpeed9am': [0.0],
