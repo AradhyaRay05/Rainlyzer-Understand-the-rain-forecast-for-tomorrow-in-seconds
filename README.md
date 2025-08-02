@@ -46,7 +46,17 @@ To make the model accessible and interactive, it is integrated into a **Streamli
 ---
 
 ## 📁 Project Structure
-
+RailFallPredict/
+├── .devcontainer                   # Dev container config for remote development
+├── Dataset/                        # Directory for dataset files
+│   └── weather.csv                 # Raw weather dataset for rail fall prediction
+├── .gitignore                      # Prevents Git from tracking unnecessary files
+├── LICENSE                         # Allows reuse, with attribution, no warranty
+├── README.md                       # Project documentation
+├── Rail_Fall_Prediction.ipynb      # Jupyter notebook for analysis and model training
+├── app.py                          # Streamlit app for live predictions
+├── best_catboost_model.pkl         # Trained CatBoost model saved with pickle
+└── requirements.txt                # Python dependencies file
 
 ## ✅ Features
 
